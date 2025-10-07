@@ -11,10 +11,4 @@ FinChat is an AI-driven financial chatbot designed to assist users in trading, p
 - **Trading Assistant:** Offers insights and suggestions for portfolio management and market trends.
 - **Powered by Mistral LLM:** Uses the Mistral large language model for intelligent and context-aware responses.
 
-## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/finchat.git
-cd finchat
